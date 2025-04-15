@@ -20,7 +20,7 @@
 
 ###
 
-<p align="center">I'm Jerald Babor from Philippines<br><br>- 🔭 I’m working as a web dev<br>- 📚 I'm currently learning more about tools</p>
+<p align="center">I'm Jerald Babor from Philippines<br><br>- 🔭 I’m working as a web dev<br>- 📚 I'm currently learning more about tech tools</p>
 
 ###
 
