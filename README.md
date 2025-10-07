@@ -22,6 +22,7 @@
   I'm Jerald Babor from the Philippines 🇵🇭<br><br>
   - 🔭 I’m working as a Web Developer<br>
   - 📚 I’m currently learning more about tools like Next.js and Docker
+  - I was the main developer of our school's project in a project 13 titled Barangay Digitalization System, an integrated system for 13 barangays in the municipality of Hinoban. Our project was deployed in 13 barangays, and I am currently maintaining this system.
 </p>
 
 ###
