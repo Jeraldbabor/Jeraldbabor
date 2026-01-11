@@ -60,4 +60,3 @@ I enjoy building **real-world systems that actually get used** by people — not
 
 ---
 
-💬 *“I don’t just code projects — I ship systems that people actually use.”*
